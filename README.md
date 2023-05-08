@@ -1,0 +1,17 @@
+Download Link: https://assignmentchef.com/product/solved-tim-50-database-assignment-1
+<br>
+In this assignment, you will use Microsoft Access to generate reports using query. Pleasepay attention to every criteria when you do the selection. You can get the full credit onlyif everything is correct (Both the queries and the results). Please show and only show allthe attributes listed in brackets in the same order, missing or unexpected attributes orcriteria will cause you lose points. Import the data (DBHW1.xls) into MS Access and answerthe following questions:1. Generate a report showing the [order ID, order date, customer name, and theproduct subcategory] of all high priority orders shipped by express air in the yearof 2011. (Hint: representing date: #3/12/2016#)2. Generate a report showing the for the top 5 largest sales (Hint: rank by sales and then only show thetop 5).3. Generate a report showing the [region, customer segment, profit, and shipmentmode] for all furniture (product category) items in the region of “Nunavut”.4. Generate a report showing the total [profits] of technology products (productcategory) shipped with “critical” and “high” priorities.5. By using parameter query, generate reports that indicate [sales, profit, customersegment, and product category] for all high priority orders shipped by regular aircontaining “furniture” and “technology” (product category) with the profit greaterthan 1000 in home office. (Hint: parameter query for “or”: [] or []).Submission Instructions1. Make a screen shot (using snipping tool, alt+ctrl+prt sc, etc.) of each query form.2. Save each report as a .pdf file (Export report as PDF)3. Combine all screen shots and reports into a single PDF file and label it “DB1”.4. Submit your file via eCommons.
+
+
+
+5/5 - (2 votes)
+
+<ul class="products columns-3">
+
+ <li class="product type-product post-72489 status-publish first instock product_cat-cse396 has-post-thumbnail downloadable virtual purchasable product-type-simple"><a href="https://www.ankitcodinghub.com/product/cse-396-assignment-5-solved/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="324" height="243" alt="ZIP" decoding="async" data-src="https://i0.wp.com/www.ankitcodinghub.com/wp-content/uploads/2021/09/ZIP.jpg?resize=324%2C243&amp;ssl=1" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+   <noscript>
+
+    <img width="324" height="243" src="https://i0.wp.com/www.ankitcodinghub.com/wp-content/uploads/2021/09/ZIP.jpg?resize=324%2C243&amp;ssl=1" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="ZIP" decoding="async">
+
+   </noscript><h2 class="woocommerce-loop-product__title">      CSE 396-Assignment 5 Solved</h2><span class="price"><del><span class="woocommerce-Price-amount amount"><bdi>30.00 <span class="woocommerce-Price-currencySymbol">$</span></bdi></span></del> <ins><span class="woocommerce-Price-amount amount"><bdi>15.00 <span class="woocommerce-Price-currencySymbol">$</span></bdi></span></ins></span></a><a href="?add-to-cart=72489" data-quantity="1" class="button wp-element-button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="72489" data-product_sku="" aria-label="Add “      CSE 396-Assignment 5 Solved” to your cart" rel="nofollow">Add to cart</a></li>
